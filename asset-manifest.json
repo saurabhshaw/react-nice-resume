@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-nice-resume/static/css/main.bab0b925.chunk.css",
+    "main.js": "/react-nice-resume/static/js/main.0ab76556.chunk.js",
+    "main.js.map": "/react-nice-resume/static/js/main.0ab76556.chunk.js.map",
+    "runtime-main.js": "/react-nice-resume/static/js/runtime-main.913536b8.js",
+    "runtime-main.js.map": "/react-nice-resume/static/js/runtime-main.913536b8.js.map",
+    "static/js/2.a25c794a.chunk.js": "/react-nice-resume/static/js/2.a25c794a.chunk.js",
+    "static/js/2.a25c794a.chunk.js.map": "/react-nice-resume/static/js/2.a25c794a.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "/react-nice-resume/static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "/react-nice-resume/static/js/3.37192441.chunk.js.map",
+    "index.html": "/react-nice-resume/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/react-nice-resume/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.a25c794a.chunk.js.LICENSE.txt": "/react-nice-resume/static/js/2.a25c794a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913536b8.js",
+    "static/js/2.a25c794a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.0ab76556.chunk.js"
+  ]
+}
